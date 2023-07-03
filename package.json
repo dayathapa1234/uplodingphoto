@@ -1,5 +1,5 @@
 {
-  "homepage":"https://dayathapa1234.github.io/uplodingphoto",
+  "homepage": "https://dayathapa1234.github.io/uplodingphoto",
   "name": "uplodingphoto",
   "version": "0.1.0",
   "private": true,
@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "tailwind": "^4.0.0"
   }
 }
